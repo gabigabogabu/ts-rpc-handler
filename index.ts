@@ -1,3 +1,3 @@
-export * from "./bunRpcClient";
-export * from "./bunRpcServer";
+export * from "./RpcClient";
+export * from "./RpcHandler";
 export * from "./common";
